@@ -7,8 +7,8 @@
         <mxCell id="uzteebbv50znwVbjYiwT-2" value="ai_engine_app" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="100" y="300" width="110" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="uzteebbv50znwVbjYiwT-3" value="ai_engine_app" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="110" y="310" width="110" height="50" as="geometry" />
+        <mxCell id="uzteebbv50znwVbjYiwT-3" value="&lt;div style=&quot;color: rgb(204, 204, 204); background-color: rgb(31, 31, 31); font-family: Consolas, &amp;quot;Courier New&amp;quot;, monospace; font-size: 14px; line-height: 19px; white-space: pre;&quot;&gt;&lt;span style=&quot;color: #4ec9b0;&quot;&gt;hs_ai_get_video&lt;/span&gt;&lt;/div&gt;" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="390" y="300" width="110" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
